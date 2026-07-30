@@ -38,6 +38,7 @@
 
 .markdown-section {
     font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif !important;
+    font-size: var(--font-size) !important;
 }
 
 </style>
