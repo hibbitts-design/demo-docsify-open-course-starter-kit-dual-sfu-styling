@@ -13,10 +13,6 @@
   - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-course-starter-kit/)
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
 
-<form action="https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dual-sfu-styling/generate" target="_blank">
-  <input type="submit" value="Use this Template on GitHub" style="cursor: pointer;margin-top:12px;padding:6px;width:250px;background-color:var(--theme-color-1);border:1px solid var(--link-color);border-radius:.25rem;color:var(--link-color);display:inline-block;font-family:system-ui,sans-serif;text-align:center;text-decoration:none;font-size:16px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form>
-
 <style>
 
 /* Link colors to match SFU branding visual styling (uncomment to use) */
